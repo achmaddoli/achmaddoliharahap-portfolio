@@ -164,5 +164,6 @@ export const listProyek = [{
         desk: 'I contributed to the design of a Smart Chicken System that integrated feeding, environmental monitoring, water management, and maintenance into a single IoT-based workflow using ESP32-connected subsystems and automated monitoring concepts. This experience strengthened my interest in developing sustainable and scalable integrated systems that address practical community needs through effective real-world automation.',
         tools: ['Group Project', 'FINCAPES-Funded Research Initiative', 'Planned Field Implementation in Sumenep, Indonesia'],
         dad: '700',
+        link: 'https://drive.google.com/file/d/1MgSiI8yqGqrZvEVV0PQPuTKsfo2pZpyy/view?usp=sharing',
     },
 ];
