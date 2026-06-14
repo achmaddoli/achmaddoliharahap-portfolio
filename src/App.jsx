@@ -9,7 +9,7 @@ function App() {
         <div className="animate__animated animate__fadeInUp animate__delay-3s">
           <div className="flex items-center gap-3 mb-6 bg-zinc-800 w-fit p-4 rounded-2xl">
             <img src={DataImage.HeroImage} alt="Hero Image" className="w-10 rounded-md" loading="lazy" />
-            <q>You’re on Your Own, Kid</q>
+            <q>Learn Today, Lead Tomorrow</q>
           </div>
 
           <h1 className="text-5xl/tight font-bold mb-6">Hi! I'm Achmad Doli Harahap</h1>
