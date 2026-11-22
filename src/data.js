@@ -160,10 +160,15 @@ export const listProyek = [{
     {
         id: 6,
         gambar: Proyek6,
-        nama: 'Smart Chicken System for Sustainable Poultry Farming',
-        desk: 'I contributed to the design of a Smart Chicken System that integrated feeding, environmental monitoring, water management, and maintenance into a single IoT-based workflow using ESP32-connected subsystems and automated monitoring concepts. This experience strengthened my interest in developing sustainable and scalable integrated systems that address practical community needs through effective real-world automation.',
-        tools: ['Group Project', 'FINCAPES-Funded Research Initiative', 'Planned Field Implementation in Sumenep, Indonesia'],
+        nama: 'GeoKurir Malang: Courier Delivery Zone Optimization',
+        desk: 'I developed GeoKurir Malang, a geospatial web application for optimizing courier delivery zones across Malang using PT Pos delivery data. Built with Python, Flask, Shapely, and Google Maps APIs, the system combines K-Means++ and the HBCDP algorithm to balance courier workloads while maintaining spatial proximity, evaluated using Silhouette Score, DBI, and workload variance metrics.',
+        tools: [
+          'Undergraduate Thesis',
+          'Python & Flask',
+          'K-Means++ & HBCDP',
+          'Shapely & Google Maps API',
+        ],
         dad: '700',
-        link: 'https://drive.google.com/file/d/1AaEaH9T0HpLODzmo9rirIZPjGvI13rgX/view?usp=sharing',
+        link: 'https://github.com/achmaddoli/RepoSkripsi_AchmadDoliHarahap_4J_RPL.git',
     },
 ];

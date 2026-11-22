@@ -15,13 +15,13 @@ function App() {
           <h1 className="text-5xl/tight font-bold mb-6">Hi! I'm Achmad Doli Harahap</h1>
 
           <p className="text-base/loose mb-6 opacity-50">
-            An Informatics Engineering student with a strong background in applied system development, particularly in IoT-based monitoring solutions, data-driven applications, and system integration. My academic experience includes
-            publishing an IoT-related study in a peer-reviewed journal and participating in an international exchange program at National Formosa University, Taiwan, through the IISMA initiative. I am driven to contribute to
-            technology-focused internship programs where engineering solutions are developed, evaluated, and deployed to address practical challenges.
+           Applied Informatics Engineering student with experience in machine learning, data analytics, IoT, system integration, and network
+monitoring. Gained international academic experience through the IISMA student exchange program at National Formosa University,
+Taiwan. Interested in applying data-driven and intelligent technologies to solve practical real-world problems.
           </p>
 
           <div className="flex items-center sm:gap-4 gap-2">
-            <a href="https://drive.google.com/file/d/1UwmrJ1kuJiOxFxP8SpZgu9zdsH84o2QW/view?usp=sharing" className="bg-violet-700 p-4 rounded-2xl hover:bg-violet-600">
+            <a href="https://drive.google.com/file/d/1sf-9I2M49FdJjuCRWWrcaxnFPgyy1u4M/view?usp=sharing" className="bg-violet-700 p-4 rounded-2xl hover:bg-violet-600">
               Download CV <i className="ri-download-line ri-lg"></i>
             </a>
 
